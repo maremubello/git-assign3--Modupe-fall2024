@@ -7,3 +7,5 @@ This project demonstrates the use of Python for data analysis, focusing on:
 - Exploratory Data Analysis (EDA) for uncovering insights
  
 Leveraging popular Python libraries such as Pandas, NumPy, and Matplotlib, the project showcases practical applications of data handling and visualization techniques. It is an excellent resource for learning and applying data analysis skills in Python.
+
+Testing 

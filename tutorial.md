@@ -25,4 +25,6 @@ In this tutorial, I explored the basics of running Python commands using differe
      python script.py arg1 arg2
      ```
 
-These foundational skills make it easier to write and execute Python code efficiently.
+These foundational skills make it easier to write and execute Python code efficiently
+
+Learnt about GitHub. 
